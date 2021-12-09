@@ -77,7 +77,7 @@ namespace Agenda
         {
             Console.WriteLine("- Top 5 contatos:");
 
-            // Continue daqui
+            Console.WriteLine("Hello Wolrd");
         }
 
         static void ConsultarContatosPorCodigo()
